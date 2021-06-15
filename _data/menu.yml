@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: 见闻录，偏见也是想法。纪念《庸见词典》《好奇心词典》等其他。
+      - title: 纪念《庸见词典》《好奇心词典》等其他。
       # - title: github repo
         # url: https://github.com/riggraz/no-style-please
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
@@ -25,11 +25,12 @@ entries:
   
   - title: another list
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+      - title: anotcat
+      - url: about
+        # entries:
+          # - title: with subsubitems
+          # - title: example page
+            # url: about
 
   - title: rss
     url: feed.xml

@@ -4,7 +4,7 @@ email:
 url: ''
 baseurl: ''
 description: |
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  主观而常见的偏见。
 permalink: '/:slug.html'
 favicon: logo.png
 theme: no-style-please
