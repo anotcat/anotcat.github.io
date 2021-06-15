@@ -18,6 +18,7 @@ entries:
 
   - title: posts by category
     post_list:
+      limit: 3
       category: example2
       show_more: true
       show_more_text: See more posts...
@@ -26,7 +27,7 @@ entries:
   - title: another list
     entries:
       - title: anotcat
-      - url: about
+        url: about
         # entries:
           # - title: with subsubitems
           # - title: example page
