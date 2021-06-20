@@ -2,17 +2,17 @@
 title: 偏见词典 # site title
 description: >- # site description
   ～偏见词典～
-lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+lang: zh-CN # default lang
+timezone: Asia/Shanghai​ # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 # repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Anotcat # author name
   bio: >- # tell to the world
-    常见的偏见。
+    偏见词典，收录常见之偏见。
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username

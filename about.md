@@ -1,5 +1,5 @@
 ---
-title: Anotcat
+title: 关于
 permalink: /about/
 layout: page
 excerpt: 
